@@ -4,7 +4,7 @@ window.g_tabFiles = [
   ] },
   { band: "AC-DC", tabs: [
     "Are you ready.gp5",
-    "Moneytalks.gpx",
+    "Moneytalks.gp4",
     "The Jack.gp4"
   ] },
   { band: "Accept", tabs: [
