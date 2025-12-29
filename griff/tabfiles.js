@@ -45,7 +45,6 @@ window.g_tabFiles = [
   { band: "Manowar", tabs: [
     "Heart Of Steel.gp4",
     "Kings Of Metal.gp3",
-    "Master Of The Wind.gp3",
     "Return Of The Warlord.gp4",
     "Warriors Of The World.gp4"
   ] },
